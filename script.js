@@ -4,7 +4,7 @@
 const CONFIG = {
   discordInvite: "6zyr6N59D7",
   discordUserId: "1134406019066384444",
-  twitchChannel: "vallqe",
+  twitchChannel: "sicherunq",
   // Für das neueste YouTube-Video: Kanal-ID eintragen (beginnt mit "UC").
   // Zu finden unter youtube.com/account_advanced (Kanal-ID) oder in der Seitenquelle des Kanals.
   youtubeChannelId: ""
